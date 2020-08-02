@@ -1,7 +1,6 @@
 # Nike-Kickz
 DCGAN by Radford et al. on kickz
 
-# DCGAN - Version kicks
 ## A deep convolutional generative adversarial network that produces images of basketball shoes
 
 This is a colab run for producing completely artificial images or shoes through a DCGAN, based on the [blog post](https://medium.com/@connorshorten300/generating-basketball-shoes-with-dcgans-6cd72d521c01) by Dr.Connor Shorten (Github: [@CShorten](https://github.com/CShorten))
